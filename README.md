@@ -8,7 +8,7 @@ Install this module in your project:
 npm install --save-dev @j154004/eslint-config
 ```
 
-Add an .eslint.rc file to the project root with the following contents:
+Add an .eslintrc.js file to the project root with the following contents:
 
 ```javascript
 {
